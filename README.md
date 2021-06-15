@@ -1,6 +1,17 @@
 ## Welcome to Emma's Website
 
-This website was created for the Neuroscience and AI course at NUS. You can use the [editor on GitHub](https://github.com/emma-toh/emma-toh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This website was created for the Neuroscience and AI course at NUS. We used MNIST dataset and an adapted version of Carlos Aguayo's code to generate a model that recognises letter handwriting at: (https://emma-toh.github.io/digit_classification_website/tfjs.html).
+
+The updated page can be seen at (https://emma-toh.github.io/digit_classification_website_with_data_augmentation/tfjs.html).
+
+Code is used and adapted with permission mainly from
+-[Deploying a Simple Machine Learning Model into a WebApp using TensorFlow.js](https://towardsdatascience.com/deploying-a-simple-machine-learning-model-into-a-webapp-using-tensorflow-js-3609c297fb04) by Carlos Aguayo.
+
+The theme that we are using is _tactile_. I can upload images using ![Image](src="https://source.unsplash.com/user/erondu/1600x900") 
+
+
+
+You can use the [editor on GitHub](https://github.com/emma-toh/emma-toh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
